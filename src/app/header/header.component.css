@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    list-style: none;
+   
+    width: 70%;
+    justify-content: space-between;
+}
+ul a li{
+    padding: 8px;
+    font-weight: bold;
+}
+.search{
+    width: 400px;
+    height: 35px;
+    border-right: 0;
+    border: 1px solid blueviolet;
+    border-top-left-radius: 5px;
+     border-bottom-left-radius: 5px;
+}
+
+button{
+    height: 35px;
+    border-left: 0;
+    border: 1px solid blueviolet;
+     border-top-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+}
+
