@@ -17,7 +17,7 @@ ul a li{
 .search{
     width: 400px;
     height: 35px;
-    border-right: 0;
+    border-right: 0px;
     border: 1px solid  blueviolet;
     border-top-left-radius: 5px;
      border-bottom-left-radius: 5px;
@@ -25,7 +25,7 @@ ul a li{
 
 button{
     height: 35px;
-    border-left: 0;
+    border-left: 0px;
     border: 1px solid  blueviolet;
      border-top-right-radius: 5px;
      border-bottom-right-radius: 5px;
